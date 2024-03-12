@@ -1,0 +1,7 @@
+-- Active: 1702602768533@@127.0.0.1@3306@cars_db
+-- DROP DATABASE
+DROP DATABASE IF EXISTS ecommerce_db;
+
+-- CREATE DATABASE
+CREATE DATABASE ecommerce_db;
+
