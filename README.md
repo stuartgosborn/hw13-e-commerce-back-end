@@ -7,7 +7,7 @@ GitHub Repository:
 https://github.com/stuartgosborn/hw13-e-commerce-back-end  
 
 Demonstration Video:  
-
+https://app.screencastify.com/v3/watch/1zeMqn7EvcMYzBdlhb3H
 
 ## User Story
 
